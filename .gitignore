@@ -1,0 +1,4 @@
+shadowverse-ai-env/
+*.pyc
+__pycache__/
+outputs/ 
